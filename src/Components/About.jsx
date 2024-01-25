@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/About page.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Geethika Shoba, About Page Background Image";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a dedicated Developer with a strong passion for AI and Machine Learning. Currently, I'm pursuing my B.Tech in AI & ML.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "UI/UX design",
+  "Problem solving",
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Content creation",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I combine my technical skills in development with a deep intrest in cutting-edge technologies to create innovative solutions.";
 
 const About = () => {
   return (

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Portfolio page.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Geethika Shoba, Portfolio Page Background Image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Kidney Disease Detection",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This repository contains a Python-based machine learning project for the early detection of kidney disease.",
+    url: "https://github.com/geethikaxshoba/kidney-disease-detection",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Safe-Stree (App Design",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed an mobile application which ensures the safety of women in the society.",
+    url: "https://www.figma.com/file/UfOwZsRWqmnnkb5JckVeJH/SAFE-STREE?type=design&node-id=0-1&mode=design",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "http://geethikaxshoba.me/My-Portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Easy Path-a-shala",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Check out my YouTube channel where I teach about the basics of lastest Technology and Programming.",
+    url: "https://yt.openinapp.co/lm6p1fg",
   },
 ];
 
